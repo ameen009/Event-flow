@@ -1,0 +1,6 @@
+com/eventhub/order/kafka/OrderEventProducer.class
+com/eventhub/order/OrderServiceApplication.class
+com/eventhub/order/controller/OrderController.class
+com/eventhub/order/event/OrderPlacedEvent.class
+com/eventhub/order/dto/PlaceOrderRequest.class
+com/eventhub/order/config/KafkaConfig.class

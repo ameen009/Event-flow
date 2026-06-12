@@ -1,0 +1,6 @@
+/Users/I575678/IdeaProjects/event-hub/order-service/src/main/java/com/eventhub/order/OrderServiceApplication.java
+/Users/I575678/IdeaProjects/event-hub/order-service/src/main/java/com/eventhub/order/config/KafkaConfig.java
+/Users/I575678/IdeaProjects/event-hub/order-service/src/main/java/com/eventhub/order/controller/OrderController.java
+/Users/I575678/IdeaProjects/event-hub/order-service/src/main/java/com/eventhub/order/dto/PlaceOrderRequest.java
+/Users/I575678/IdeaProjects/event-hub/order-service/src/main/java/com/eventhub/order/event/OrderPlacedEvent.java
+/Users/I575678/IdeaProjects/event-hub/order-service/src/main/java/com/eventhub/order/kafka/OrderEventProducer.java

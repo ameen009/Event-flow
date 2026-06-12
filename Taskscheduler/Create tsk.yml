@@ -1,0 +1,27 @@
+info:
+  name: Create tsk
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:8080/api/tasks
+  body:
+    type: json
+    data: |-
+      {
+        "name": "Send Welcome Email",
+        "cronExpression": "0 */5 * * * *",
+        "type": "EMAIL",
+        "payload": {
+          "email": "test@test.com",
+          "message": "Welcome to the platform"
+        }
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

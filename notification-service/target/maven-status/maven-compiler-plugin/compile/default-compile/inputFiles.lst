@@ -1,0 +1,4 @@
+/Users/I575678/IdeaProjects/event-hub/notification-service/src/main/java/com/eventhub/notification/NotificationServiceApplication.java
+/Users/I575678/IdeaProjects/event-hub/notification-service/src/main/java/com/eventhub/notification/config/KafkaConfig.java
+/Users/I575678/IdeaProjects/event-hub/notification-service/src/main/java/com/eventhub/notification/event/OrderPlacedEvent.java
+/Users/I575678/IdeaProjects/event-hub/notification-service/src/main/java/com/eventhub/notification/kafka/OrderEventConsumer.java

@@ -1,0 +1,4 @@
+com/eventhub/notification/NotificationServiceApplication.class
+com/eventhub/notification/kafka/OrderEventConsumer.class
+com/eventhub/notification/config/KafkaConfig.class
+com/eventhub/notification/event/OrderPlacedEvent.class
